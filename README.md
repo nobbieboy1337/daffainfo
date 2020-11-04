@@ -7,7 +7,7 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I lov
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/muhammaddaffa)
     - [🔗 Twitter](https://twitter.com/daffainfo)
-    - [🌐 Website](https://daffa.info)
+    - [🌐 Website](https://daffa.tech)
     - [📧 E-Mail](mailto:md15ev@gmail.com)
 
 ## GitHub Stats
