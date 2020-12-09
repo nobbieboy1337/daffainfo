@@ -12,6 +12,6 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I lov
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffainfo&hide_border=true&hide=html,css" />
-  <img src="https://github-readme-stats.vercel.app/api?username=daffainfo&line_height=27&count_private=true&hide_border=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffainfo&hide_border=true&hide=html,css&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daffainfo&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
 </p>
