@@ -3,24 +3,25 @@
 I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I love to learn anything about cyber security!
 
 - 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as Security analyst...
-- 🌱 I’m currently learning on **Laravel and JavaScript**...
+- 🌱 I’m currently learning on **Laravel and JavaScript**
 
 ## Social Media
-<a href="https://www.linkedin.com/in/muhammaddaffa/">
-  <img align="left" alt="Daffa's LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/muhammaddaffa/" target="_blank">
+  <img align="left" alt="Daffa's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/daffainfo">
-  <img align="left" alt="Daffa's Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+<a href="https://twitter.com/daffainfo" target="_blank">
+  <img align="left" alt="Daffa's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
-<a href="https://muhdaffa.medium.com/">
-  <img align="left" alt="Daffa's Medium" width="40px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+<a href="https://muhdaffa.medium.com/" target="_blank">
+  <img align="left" alt="Daffa's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
 </a>
-<a href="https://daffa.tech">
-  <img align="left" alt="Daffa's Website" width="40px" src="https://img.icons8.com/color/48/000000/domain.png" />
+<a href="https://daffa.tech" target="_blank">
+  <img align="left" alt="Daffa's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
 </a>
-<a href="mailto:md15ev@gmail.com">
-  <img align="left" alt="Daffa's E-Mail" width="40px" src="https://img.icons8.com/color/48/000000/email.png" />
+<a href="mailto:md15ev@gmail.com" target="_blank">
+  <img align="left" alt="Daffa's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
 </a>
+<br>
 
 ## GitHub Stats
 <p>
