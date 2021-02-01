@@ -1,8 +1,8 @@
-### Hi there, I'm Daffa 👋
+### Hi there, I'm Daffa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I love to learn anything about cyber security!
 
-- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as security analyst...
+- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as Security analyst...
 - 🌱 I’m currently learning on **Laravel and JavaScript**...
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/muhammaddaffa)
@@ -14,6 +14,7 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I lov
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffainfo&hide_border=true&hide=html,css&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=daffainfo&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-profile-trophy.vercel.app/?username=daffainfo&no-frame=true&theme=nord&margin-w=27">
 </p>
 
 ## Coding Activity
@@ -22,4 +23,4 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I lov
 </p>
 
 ## Certification
-- Certified Secure Computer User (CSCU)
+- Certified Secure Computer User (CSCU) | EC - Council
