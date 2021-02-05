@@ -1,5 +1,7 @@
 ### Hi there, I'm Daffa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+![](https://komarev.com/ghpvc/?username=daffainfo&style=flat&color=1A1B27)
+
 I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I love to learn anything about cyber security!
 
 - 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst...
