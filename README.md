@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=daffainfo&style=flat&color=brightgreen)
 
-I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I love to learn anything about cyber security!
+I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
 - 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst...
-- 🌱 I’m currently learning on **Laravel and JavaScript**
+- 🌱 I’m currently learning on **Mobile pentesting and basic of docker**
 
 ## Social Media
 <a href="https://www.linkedin.com/in/muhammaddaffa/" target="_blank">
