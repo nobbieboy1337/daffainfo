@@ -4,8 +4,8 @@
 
 I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
-- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst...
-- 🌱 I’m currently learning on **Mobile pentesting and basic of docker**
+- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst Tier 1...
+- 🌱 I’m currently learning on **Mobile Pentesting**
 
 ## Social Media
 <a href="https://www.linkedin.com/in/muhammaddaffa/" target="_blank">
