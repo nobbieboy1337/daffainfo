@@ -1,10 +1,8 @@
 ### Hi there, I'm Daffa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-![](https://komarev.com/ghpvc/?username=daffainfo&style=flat&color=brightgreen)
-
 I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
-- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst Tier 1...
+- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as SOC Analyst...
 - 🌱 I’m currently learning on **Mobile Pentesting**
 
 ## Social Media
@@ -29,9 +27,4 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffainfo&hide_border=true&hide=html,css&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=daffainfo&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight"/>
-</p>
-
-## Coding Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daffainfo&hide_border=true&theme=tokyonight" />
 </p>
