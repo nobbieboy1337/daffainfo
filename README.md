@@ -25,5 +25,5 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering 
 
 ## GitHub Stats
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=daffainfo&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daffainfo&theme=onedark&no-frame=true&column=7" />
 </p>
