@@ -2,10 +2,9 @@
 
 I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
-- 🔭 I’m currently internship on Direktorat Pengembangan Teknologi dan Sistem Informasi (DPTSI) ITS as Infrastructure and Information Technology Security Staff
-- 🌱 I’m currently learning on **Golang**
+- 🌱 I'm currently learning on **Mobile and Network Pentest**
 
-## Social Media
+## Contact Me
 <a href="https://www.linkedin.com/in/muhammaddaffa/" target="_blank">
   <img align="left" alt="Daffa's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
