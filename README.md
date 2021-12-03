@@ -3,6 +3,7 @@
 I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
 - 🌱 I'm currently learning on **Mobile and Network Pentest**
+- 🔭 I'm currently working as a Vulnerability Researcher on spiderSilk!
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/muhammaddaffa/" target="_blank">
